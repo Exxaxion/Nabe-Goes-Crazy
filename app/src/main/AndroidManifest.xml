@@ -9,6 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar"
         >
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -16,6 +17,34 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Chapitre1Bureau" />
+        <activity android:name=".Indice1" />
+        <activity android:name=".Indice2" />
+        <activity android:name=".Indice3" />
+        <activity android:name=".ConclusionLieu" />
+        <activity android:name=".ChoixTransport" />
+        <activity android:name=".ChoixTraineau" />
+        <activity android:name=".ChoixHelico" />
+        <activity android:name=".ChoixKenzo" />
+        <activity android:name=".EnRoute" />
+        <activity android:name=".Synopsis" />
+        <activity android:name=".Chapitre3Trajet" />
+        <activity android:name=".Chapitre4Castle" />
+        <activity android:name=".Chapitre4Crocheter" />
+        <activity android:name=".Chapitre4Tour" />
+        <activity android:name=".Chapitre4Escalade" />
+        <activity android:name=".Chapitre4TocToc" />
+        <activity android:name=".Chapitre5Gardien" />
+        <activity android:name=".Chapitre5Bagarre" />
+        <activity android:name=".Chapitre5Esquive" />
+        <activity android:name=".Chapitre5Enigme" />
+        <activity android:name=".Chapitre6Boss" />
+        <activity android:name=".Chapitre6Attaque1" />
+        <activity android:name=".Chapitre6Attaque2" />
+        <activity android:name=".Chapitre6Attaque3" />
+        <activity android:name=".Chapitre6RomainAttaque" />
+        <activity android:name=".Chapitre6Revelation" />
+        <activity android:name=".Chapitre7TheEnd"></activity>
     </application>
 
 </manifest>
