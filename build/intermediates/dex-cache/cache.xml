@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2a2130e56e10a5b0df8c5c732ea84ebd4e2c1942">
+        sha1="db0dc27480361dff0b17413e0cca9d0e72ea5663">
         <dex dex="/home/apprenti/AndroidStudioProjects/Nabe-Goes-Crazy/app/build/intermediates/pre-dexed/debug/instant-run_683e84c1677c5a2d02789969424d36d8e642c5f0.jar" />
     </item>
     <item
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="10285ec25f236d6f8614fb911ed99c8957fc57fe">
+        sha1="53216ce88abaf604fd359e738e44e2299a96dd7e">
         <dex dex="/home/apprenti/AndroidStudioProjects/Nabe-Goes-Crazy/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fc837d992f89a2a84ffec53069d8c990bf912010.jar" />
     </item>
     <item
