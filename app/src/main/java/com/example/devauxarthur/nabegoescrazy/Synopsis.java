@@ -14,7 +14,6 @@ public class Synopsis extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_synopsis);
 
-        ImageView image = (ImageView) findViewById(R.id.idSynopsis);
         Button button = (Button) findViewById(R.id.idbutton);
 
         button.setOnClickListener(new View.OnClickListener() {
