@@ -19,6 +19,9 @@ public class Indice2 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
+                StoreSingleton.getInstance().setCountIndice2(true);
+
+
                 Intent intent= new Intent(Indice2.this, Chapitre1Bureau.class);
                // intent.putExtra("countIndice2", true);
                 startActivity(intent);

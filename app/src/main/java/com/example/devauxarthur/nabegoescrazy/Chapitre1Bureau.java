@@ -9,7 +9,6 @@ import android.widget.Button;
 import java.util.HashMap;
 
 public class Chapitre1Bureau extends AppCompatActivity {
-    private HashMap proute = new HashMap();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -60,15 +59,18 @@ public class Chapitre1Bureau extends AppCompatActivity {
             }
         });
 
-        Button buttonIndiceSuite = (Button) findViewById(R.id.indicesuite);
+           if(StoreSingleton.getInstance().getCountIndice1() && StoreSingleton.getInstance().getCountIndice2() && StoreSingleton.getInstance().getCountIndice3()) {
+               Button buttonIndiceSuite = (Button) findViewById(R.id.indicesuite);
 
-        buttonIndiceSuite.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(Chapitre1Bureau.this, ConclusionLieu.class);
-                startActivity(intent);
-                finish();
-            }
-        });
+               buttonIndiceSuite.setOnClickListener(new View.OnClickListener() {
+                   @Override
+                   public void onClick(View v) {
+                       Intent intent = new Intent(Chapitre1Bureau.this, ConclusionLieu.class);
+                       startActivity(intent);
+                       finish();
+                   }
+               });
+           }
+
     }
 }
