@@ -49,10 +49,9 @@
         />
         <activity
             android:name=".ChoixKenzo"
-            android:screenOrientation="portrait" /><![CDATA[
+            android:screenOrientation="portrait" />
         />
         />
-        ]]>
         <activity
             android:name=".Synopsis"
             android:screenOrientation="portrait" />
@@ -122,7 +121,8 @@
             android:screenOrientation="portrait" />
         />
         <activity android:name=".Chapitre7TheEnd" />
-        <activity android:name=".Fortuite"></activity>
+        <activity android:name=".Fortuite" />
+        <activity android:name=".LogoFinal"></activity>
     </application>
 
 </manifest>

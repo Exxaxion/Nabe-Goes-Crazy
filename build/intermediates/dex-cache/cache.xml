@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="5436bb41a5a10b0173f67ee835004973b04b8d92">
+        sha1="642d6c3347b659bbf0be89f746d49a6b50466140">
         <dex dex="/home/apprenti/AndroidStudioProjects/Nabe-Goes-Crazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc837d992f89a2a84ffec53069d8c990bf912010/classes.dex" />
     </item>
     <item
