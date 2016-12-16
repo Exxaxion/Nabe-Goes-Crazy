@@ -37,7 +37,7 @@ public class Chapitre4Castle extends AppCompatActivity {
                 finish();
             }
         });
-        Button buttonIssue = (Button) findViewById(R.id.serrure);
+        Button buttonIssue = (Button) findViewById(R.id.issue);
 
         buttonIssue.setOnClickListener(new View.OnClickListener() {
             @Override

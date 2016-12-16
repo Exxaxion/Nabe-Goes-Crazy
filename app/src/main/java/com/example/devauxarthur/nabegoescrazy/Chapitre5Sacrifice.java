@@ -6,12 +6,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class Chapitre6Attaque1 extends AppCompatActivity {
+public class Chapitre5Sacrifice extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_chapitre6_attaque1);
+        setContentView(R.layout.activity_chapitre5_sacrifice);
 
         Button button = (Button) findViewById(R.id.idbutton);
 
@@ -19,7 +19,7 @@ public class Chapitre6Attaque1 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                Intent intent = new Intent(Chapitre6Attaque1.this, Chapitre6Attaque2.class);
+                Intent intent = new Intent(Chapitre5Sacrifice.this, Chapitre6Boss.class);
                 startActivity(intent);
                 finish();
             }

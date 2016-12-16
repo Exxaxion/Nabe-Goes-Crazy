@@ -10,4 +10,49 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.devauxarthur.nabegoescrazy.Chapitre5Gardien">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/gardien"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="90dp"
+        android:text="Se battre"
+        android:textColor="@android:color/black"
+        android:layout_alignParentLeft="true"
+        android:background="@android:color/transparent"
+        android:id="@+id/buttonbaston"
+        android:textAllCaps="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Passer en force"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="90dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/transparent"
+        android:id="@+id/buttonesquive"
+        android:textAllCaps="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="90dp"
+        android:text="Sacrifier Kenzo"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:background="@android:color/transparent"
+        android:id="@+id/buttonsacrifice"
+        android:textAllCaps="false" />
+
+
+
 </RelativeLayout>

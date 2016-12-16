@@ -94,7 +94,7 @@
             android:screenOrientation="portrait" />
         />
         <activity
-            android:name=".Chapitre5Enigme"
+            android:name=".Chapitre5Sacrifice"
             android:screenOrientation="portrait" />
         />
         <activity
