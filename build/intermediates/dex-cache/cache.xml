@@ -3,33 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_62b6f675a7eb829cc45001f8003189c9dce647ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_7e751fda1f9322d16dbbaea69d7006cb5be0fe8c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_78f09ced2f564143442f0d66b99928cbcde23182/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -57,6 +30,42 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fab011eba96f8044f53694cfc5ae61ce8a4ce887">
+        <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf6c3b8192a2cd61d1f566f21942049e2c2ef0b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_62b6f675a7eb829cc45001f8003189c9dce647ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_7e751fda1f9322d16dbbaea69d7006cb5be0fe8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_78f09ced2f564143442f0d66b99928cbcde23182/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -72,15 +81,6 @@
         revision="25.0.2"
         sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
         <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_af965a59a93b9533d94f0168bfe71761ba732924/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fab011eba96f8044f53694cfc5ae61ce8a4ce887">
-        <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf6c3b8192a2cd61d1f566f21942049e2c2ef0b5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="cf4caeb1e6b6dd092496f36ce21ddbf00e377a56">
+        sha1="5c5f1ff7e993e0129ef08baf27ae913e4644ac54">
         <dex dex="/Users/devauxarthur/AndroidStudioProjects/NabeGoesCrazy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11704c79d1e7ce87f204aaf1affd151b68ebd9ed/classes.dex" />
     </item>
 

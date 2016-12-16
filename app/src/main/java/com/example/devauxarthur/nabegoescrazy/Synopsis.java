@@ -22,6 +22,7 @@ public class Synopsis extends AppCompatActivity {
 
                 Intent intent = new Intent(Synopsis.this, Chapitre1Bureau.class);
                 startActivity(intent);
+                finish();
             }
         });
     }
